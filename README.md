@@ -7,11 +7,15 @@ The number one thing you have to do is to work on yourself. I say to my girls al
 Fill  yourself up and keep your cup full, keep yourself full.
 
 ## Tracklist:
-Souvenirs d'enfance
-How Deep Is Your Love
-Please Open Carefully
-Locked out of Heaven (Piano Version)
-Who You Are
-Run with Me
-Demure
-Traces
+- Souvenirs d'enfance
+- How Deep Is Your Love
+- Please Open Carefully
+- Locked out of Heaven (Piano Version)
+- Who You Are
+- Run with Me
+- Demure
+- Traces
+
+## Text information
+- story words size: 44 px
+- Blueberry: 64 px
